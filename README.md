@@ -6,7 +6,8 @@ Thanks a lot for taking the time for this challenge and for applying at Skoove. 
 As a Skoove user, I want to engage with a community platform that allows me to easily read, post, and interact with comments in a structured and user-friendly way.
 
 ### Figma Deliverables
-https://drive.google.com/file/d/1R_Jsp3cdrBvYkwpFs8Q8NO9luEZmmY2q/view
+
+You can find figma file in the root of the project [Skoove-mockups.fig](Skoove-mockups.fig) and upload it to figma to see the design.
 
 ### Functional Requirements
 
